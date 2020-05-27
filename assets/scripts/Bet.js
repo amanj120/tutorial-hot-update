@@ -14,7 +14,7 @@ cc.Class({
         },
         chipValues: {
             default: [],
-            type: 'Integer'
+            type: cc.Integer
         },
         anchorChipToss: {
             default: null,
